@@ -21,10 +21,9 @@
   <a href="" target="_blank">
     <img style="margin-bottom:-5px" src="https://img.shields.io/github/forks/realRoyHsu/vue-Webpack4-Babel6.svg" />
   </a> 
-  优化
 </h2>
 
-# Use
+# Usage
 
 ```javascript
 npm i
