@@ -1,8 +1,8 @@
-## Vue 3.0 + Webpack4 + Babel6 项目搭建
+## Vue 2.0 + Webpack4 + Babel6 项目搭建
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000" />
-  <img src="https://img.shields.io/badge/vue-3.6.3-blue.svg" />
+  <img src="https://img.shields.io/badge/vue-2.6.6-blue.svg" />
   <img src="https://img.shields.io/badge/webpack-4.29.3-blue.svg" />
   <img src="https://img.shields.io/badge/babel-6.26.3-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
