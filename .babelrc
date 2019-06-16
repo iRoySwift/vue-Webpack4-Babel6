@@ -1,0 +1,11 @@
+{
+  "presets": [
+    ["env", {
+      // webpack 有tree-shaking 特性, 如果直接转化为commonjs模块, 则无法使用此特性
+      "modules": false,
+      "browsers": ["ie >= 9", "last 2 versions", ">= 5%"]
+    }],
+    "stage-3"
+  ],
+  "plugins": ["syntax-dynamic-import", "transform-vue-jsx", "transform-runtime"]
+}

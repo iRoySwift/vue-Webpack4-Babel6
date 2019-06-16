@@ -1,0 +1,31 @@
+export default {
+  locale: 'zh-cn',
+  localeProvide: {
+    hello: '你好',
+  },
+  emptyText: '暂无数据',
+  emptySelect: '暂无选项',
+  emptyTextQuery: '没有找到您期望的内容，请尝试其它查询条件!',
+  edit: '编辑',
+  checkout: '查看',
+  delete: '删除',
+  Preservation: '保存',
+  confirmTitle: '提示',
+  open: '开启',
+  close: '关闭',
+  okText: '确定',
+  cancelText: '取消',
+  query: '查询',
+  reset: '重置',
+  addNew: '新增',
+  submit: '提交',
+  set: '设置',
+  saveSuccessInfo: '保存成功',
+  saveErrorInfo: '保存失败',
+  requirePrefix: '请输入', // 非空验证
+  requireSelectPrefix: '请选择', // 非空验证
+  batchDelete: '批量删除',
+  requiredMsg: '不能为空。',
+  noPage: '哎呀，你的页面被带走了',
+  updateSuccess: '修改成功',
+};
